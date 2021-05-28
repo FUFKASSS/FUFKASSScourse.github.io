@@ -1,2 +1,2 @@
-# FUFKASSScourse.github.io
+# Арсланов Фаниль
 Мой первый сайт
